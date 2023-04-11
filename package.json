@@ -1,0 +1,23 @@
+{
+  "name": "ver",
+  "version": "1.0.0",
+  "description": "backend para el proyecto calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "calculadora",
+    "api",
+    "backend",
+    "intermedio"
+  ],
+  "author": "Emily Chaparro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
